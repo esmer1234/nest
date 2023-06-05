@@ -9,7 +9,13 @@ e = a * b;
 f = a / b;
 g = a % b;
 h = a ** b;
-console.log(a);
+
+
+// dkjfldjkdnlfdk
+//dfjdbfjdf
+//dnfkdfjdf
+//djfhd
+// console.log(a);
 console.log(c);
 console.log(d);
 console.log(e);
